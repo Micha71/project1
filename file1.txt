@@ -2,4 +2,7 @@ Dit is een testdocument voor Project1
 
 We gaan hier wat in veranderen.
 
-nog wat oefenen
+nog wat oefenen.
+
+
+We hebben dit document aangepast op 1 juni 2015 om nogmaals een git push te oefenen naar GitHub.
